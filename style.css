@@ -7,3 +7,9 @@
     min: height 100cm;;
     background-color:orange;
 }
+
+body {
+text-align:center;
+ justify-content:center;
+}
+
