@@ -1,5 +1,9 @@
-body {
-text-align:center;
-justify-content:center;
- background:blur;
+#div1 {
+    min-height:100cm;
+    background-color:red;
+}
+
+#div2 {
+    min: height 100cm;;
+    background-color:orange;
 }
