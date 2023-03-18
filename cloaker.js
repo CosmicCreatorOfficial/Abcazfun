@@ -26,7 +26,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         style.width = style.height = "100%"
 
         doc.body.appendChild(iframe)
-        location.replace("https://sannake.com")
+        location.replace("https://snnake.com")
     }
 }
 
