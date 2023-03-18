@@ -33,5 +33,13 @@ body{
     0 0 100px #4fc3dc;
     animation: animate 15s linear infinte;
 }
+@keyframes animate
+{
+0%
+  {
+   transform: translateY(110vh) scale(0);
+  }
+
+
 
 
