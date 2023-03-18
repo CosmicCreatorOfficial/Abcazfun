@@ -1,15 +1,34 @@
-#div1 {
-    min-height:100cm;
-    background-color:red;
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+body{
+    min-height: 100vh;
+    background: #0c192c;
+}
+.container{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
 }
 
-#div2 {
-    min: height 100cm;;
-    background-color:orange;
+.bubbles {
+    position: relative;
+    display: flex;
 }
 
-body {
-text-align:center;
- justify-content:center;
+.bubble span 
+{
+    position: realtive;
+    width:30px;
+    height:30px;
+    background: #4fc3dc;
+    margin: 0 4px;
+    border-radius: 50%
+    box-shadow: 0 0 0 10px #4fc3dc44;
 }
+
 
