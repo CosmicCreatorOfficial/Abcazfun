@@ -23,7 +23,7 @@ html {
     background: -webkit-linear-gradient(white, #0c192c);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: smaller;
+    font-size: 100;
 }
 
 #stars {
