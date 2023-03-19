@@ -5,6 +5,10 @@ html {
     font-family: 'Poppins', sans-serif;
 }
 
+img{
+    justify-content: center;
+}
+
 
 #stars {
     width: 1px;
