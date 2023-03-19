@@ -18,6 +18,8 @@ html {
     margin-top: -60px;
     padding-left: 10px;
     font-family: 'Poppins', sans-serif;
+    text-shadow: -4px 4px  #ff00ff,
+                 -8px 8px   #00fdff;
 }
 
 #title span {
