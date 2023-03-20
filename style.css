@@ -10,6 +10,10 @@ img{
     float: right 50px;
 }
 
+nav{
+    height: 20px
+}
+
 
 #stars {
     width: 1px;
