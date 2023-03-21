@@ -1,9 +1,12 @@
-
+html{
+    background-color: #0c192c;
+}
 img {
     border-radius: 25px;
     height: 140px;
     width: 140px;
   }
+
 
 
 button {
