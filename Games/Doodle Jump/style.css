@@ -1,6 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 
 *{box-sizing: border-box;}
+html{
+  background-color: #0c192c;
+}
 
 body {
   margin: 0; padding: 0;
