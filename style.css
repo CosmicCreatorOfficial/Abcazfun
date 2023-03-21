@@ -586,6 +586,12 @@ body {
    justify-content: center;
 }
 
+.logo {
+height:30px;
+width:20px;
+border-radius: 10%;
+}
+
 
 
 
