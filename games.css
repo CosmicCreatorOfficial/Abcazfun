@@ -16,6 +16,7 @@ button {
     height: 155px;
     transition: all 0.1s ease-in-out;
     background-color: #0c192c;
+    justify-content:center;
 
   }
 
@@ -29,5 +30,5 @@ button {
   }
 
 .logo {
-      margin-bottom: 10cm;
+      
        }
