@@ -1,0 +1,49 @@
+html{
+    background-color: #0c192c;
+    font-family: 'Poppins', sans-serif;
+    justify-content:center;
+    text-align:center;
+
+}
+img {
+    border-radius: 25px;
+    height: 140px;
+    width: 140px;
+  }
+
+
+
+button {
+    border-radius: 25px;
+    height: 155px;
+    transition: all 0.1s ease-in-out;
+    background-color: #0c192c;
+
+  }
+
+  button:hover {
+    transform: scale(1.1);
+  }
+
+  p{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+
+#clicker {
+  margin-left: -30cm;
+}
+#doodle {
+  margin-top: -1.6in;
+  margin-left: -8in;
+}
+
+#Sub {
+  margin-top: -1.6in;
+  margin-left:-4.2in;
+}
+
+#SubNY {
+  margin-top: -1.6in;
+  margin-left: -30px;
+}
